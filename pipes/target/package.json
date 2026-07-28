@@ -1,0 +1,16 @@
+{
+  "name": "pipes-js",
+  "version": "2.0.0",
+  "description": "Animated pipes terminal screensaver rewritten in JavaScript",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "pipes": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
